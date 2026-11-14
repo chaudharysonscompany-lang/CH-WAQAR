@@ -30,6 +30,4 @@ Parks and playgrounds.
 Roads and streetlights.
 Mosques and community centers.
 Commercial markets and shopping areas.
-
-
-- Project supervisio
+Project supervisio
