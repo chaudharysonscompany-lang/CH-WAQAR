@@ -1,6 +1,6 @@
 # chaudhary sons company 
 # real estate solution
-### Property solutions for buying, selling, building, and maintaining real estate
+# Property solutions for buying, selling, building, and maintaining real estate
 # Handle property deals professionally
 # We help people find suitable residential and commercial properties, make informed property decisions, and care for buildings beyond the sale. Our work spans property search and transactions, investment guidance, construction coordination, and ongoing maintenance.
 # Advertise properties online and offline.
